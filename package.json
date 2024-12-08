@@ -8,6 +8,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "lodash": "4.17.21",
-    "commander": "9.3.0"
+    "commander": "9.5.0"
   }
 }
